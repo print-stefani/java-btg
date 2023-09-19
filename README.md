@@ -11,6 +11,6 @@ Se você estiver interessado em executar ou explorar os desafios que foram reali
 # Contato
 Se você tiver alguma pergunta ou precisar de mais informações sobre qualquer um dos desafios realizados, sinta-se à vontade para entrar em contato comigo:
 Endereço de E-mail: stefanibeatrizcv@gmail.com
-Fico feliz em compartilhar minha experiência e conhecimento sobre esses desafios.
 
+Fico feliz em compartilhar minha experiência e conhecimento sobre esses desafios.
 Agradeço por visitar este repositório!
