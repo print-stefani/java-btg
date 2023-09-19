@@ -1,2 +1,3 @@
-# java-btg
-Desafios de codigos em Java
+# Desafios de codigos em Java
+
+Realizados para os desafios de codigo do banco btg.
